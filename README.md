@@ -7,7 +7,7 @@ Dynamic portfolio showcasing my B.Tech CS journey @ DYPSN Kolhapur - Python/C++ 
 **B.Tech CS 1st Year @ DYPSN Kolhapur**  
 **Python • C/C++ • Learning Android & Web Dev**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mana-123885&show_icons=true&cache_seconds=3600)
+![Mana-123885 Stats](https://github-readme-stats.vercel.app/api?username=Mana-123885&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true)
 
 
 ## 🛠️ Skills
